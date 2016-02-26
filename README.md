@@ -1,2 +1,1 @@
-HELLO
-this is a change
+HELLO - welcome to testing out PR templates
